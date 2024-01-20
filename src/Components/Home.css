@@ -1,0 +1,53 @@
+h3{
+  font-size: 30px;
+  color: white;
+}
+
+.home-top-container{
+  margin-left: 30px;
+}
+
+.name{
+  color: white;
+  font-size: 65px;
+}
+
+.gardient{
+  background: #00C8CF;
+    background: linear-gradient(to right, #00C8CF 0%, #BACF00 100%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+
+.aboutme {
+  color: rgb(126, 126, 126);
+  font-size: 26px;
+}
+
+.interest{
+  background: #06CF0D;
+    background: repeating-radial-gradient(circle farthest-corner at center center, #06CF0D 0%, #CFCFCF 100%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    font-size: 22px;
+    text-align: right;
+}
+
+.Interest-heading{
+  margin-top: 65px;
+  text-align: right;
+  margin-right: 560px;
+}
+
+@media screen and (max-width : 768px) {
+  .interest,
+  .Interest-heading{
+    text-align: left;
+    font-size: 19px;
+  }
+
+  .name{
+    font-size: 45px;
+  }
+  
+}

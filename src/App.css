@@ -1,0 +1,14 @@
+.Main-Container{
+  margin-left: 25px;
+  margin-right: 25px;
+}
+
+hr {
+ margin-top: 90px;
+ margin-bottom: 70px;
+  border: 0;
+  height: 5px;
+  background-image: -webkit-gradient(linear, left top, right top, from(#32a85280), trgba(252, 42, 35, 0.603));
+  background-image: linear-gradient(90deg, #32a8525e, #fc2a2359);
+  border-radius: 5px;
+}

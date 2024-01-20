@@ -1,0 +1,192 @@
+p{
+  color: white;
+}
+
+.main-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-top: 25px;
+}
+
+.skills-name{
+  color: white;
+  font-size: 30px;
+}
+
+.skills {
+  display: flex;
+  justify-content: center;
+}
+
+.skill-img {
+  margin: 0 30.5px;
+}
+
+.skill-img img {
+  height: 100px;
+  width: 100px;
+  transition-delay: 0.3s;
+}
+
+.skill-img img:hover {
+  height: 110px;
+  width: 110px;
+}
+
+@media screen and (max-width: 786px) {
+  .skills-name {
+    font-size: 24px;
+  }
+
+  .skill-img img {
+    height: 80px;
+    width: 80px;
+  }
+
+    .skill-img img:hover {
+      height: 90px;
+      width: 90px;
+    }
+
+    .skill-img {
+      margin: 0 25.5px;
+    }
+}
+
+@media screen and (max-width: 686px) {
+  .skills-name {
+    font-size: 24px;
+  }
+
+  .skill-img img {
+    height: 70px;
+    width: 70px;
+  }
+
+    .skill-img img:hover {
+      height: 80px;
+      width: 80px;
+    }
+
+    .skill-img {
+      margin: 0 20.5px;
+    }
+}
+
+@media screen and (max-width: 636px) {
+  .skills-name {
+    font-size: 24px;
+  }
+
+  .skill-img img {
+    height: 65px;
+    width: 65px;
+  }
+
+    .skill-img img:hover {
+      height: 70px;
+      width: 70px;
+    }
+
+    .skill-img {
+      margin: 0 15.5px;
+    }
+}
+
+@media screen and (max-width: 594px) {
+  .skills-name {
+    font-size: 24px;
+  }
+
+  .skill-img img {
+    height: 55px;
+    width: 55px;
+  }
+
+    .skill-img img:hover {
+      height: 60px;
+      width: 60px;
+    }
+
+    .skill-img {
+      margin: 0 12.5px;
+    }
+}
+
+@media screen and (max-width: 570px) {
+  .skills-name {
+    font-size: 24px;
+  }
+
+  .skill-img img {
+    height: 50px;
+    width: 50px;
+  }
+
+    .skill-img img:hover {
+      height: 55px;
+      width: 55px;
+    }
+
+     .skill-img {
+       margin: 0 12.5px;
+     }
+}
+
+@media screen and (max-width: 550px) {
+  .skills-name {
+    font-size: 24px;
+  }
+
+  .skill-img img {
+    height: 43px;
+    width: 43px;
+  }
+
+    .skill-img img:hover {
+      height: 50px;
+      width: 50px;
+    }
+     .skill-img {
+       margin: 0 10.5px;
+     }
+}
+
+@media screen and (max-width: 450px) {
+  .skills-name {
+    font-size: 24px;
+  }
+
+  .skill-img img {
+    height: 40px;
+    width: 40px;
+  }
+.skill-img img:hover {
+  height: 45px;
+  width: 45px;
+}
+     .skill-img {
+       margin: 0 9.5px;
+     }
+}
+
+@media screen and (max-width: 400px) {
+  .skills-name {
+    font-size: 24px;
+  }
+
+  .skill-img img {
+    height: 35px;
+    width: 35px;
+  }
+
+    .skill-img img:hover {
+      height: 40px;
+      width: 40px;
+    }
+
+     .skill-img {
+       margin: 0 6.5px;
+     }
+}
