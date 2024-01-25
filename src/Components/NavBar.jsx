@@ -18,11 +18,8 @@ const Navbar = () => {
   return (
     <nav className="navbar">
       <div className="navbar__mobile-toggle" onClick={toggleMenu}>
-        <div className="hamburger-icon">
-          <span></span>
-          <span></span>
-          <span></span>
-        </div>
+        <div className="hamburger-icon"></div>
+        {/* <span></span> define 3 times  */}
       </div>
       <ul className={`navbar__list ${showMenu ? "show" : ""}`}>
         <li className="navbar__item">
