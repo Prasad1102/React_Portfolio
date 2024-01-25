@@ -7,7 +7,7 @@ const Navbar = () => {
     const element = document.getElementById(id);
     if (element) {
       element.scrollIntoView({ behavior: "smooth" });
-      setShowMenu(false); // Close the menu after clicking a link on mobile
+      setShowMenu(false);
     }
   };
 
