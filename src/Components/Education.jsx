@@ -12,7 +12,7 @@ function Education() {
                 Bachelors Of Computer Aplication (Science)
               </h2>
               <h3 className="degree-collage">
-                Dr. D. Y. Patil University, Pune
+                Dr. D. Y. Patil Institute, Pune
               </h3>
               <h3 className="date">
                 Expected Graduation Date: May 2024{" "}
