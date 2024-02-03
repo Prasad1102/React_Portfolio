@@ -3,7 +3,6 @@
   position: sticky;
     top: 20px;
     background-color: #33333362;
-    padding: 20px;
     border-radius: 15px;
     margin: 20px;
     z-index: 1000;
@@ -22,17 +21,13 @@
 }
 
 .navbar__button {
-  background-image: linear-gradient(to right, #003973 0%, #E5E5BE 51%, #003973 100%);
     margin: 10px;
     padding: 15px 45px;
-    text-align: center;
-    text-transform: uppercase;
-    transition: 0.5s;
+    background-color: transparent;
     background-size: 200% auto;
-    color: white;
-    box-shadow: 0 0 20px #eee;
-    border-radius: 10px;
-    display: block;
+    color: rgb(194, 194, 194);
+    border: none;
+    cursor: pointer;
 }
 
 .top{
@@ -40,9 +35,12 @@
 }
 
 .navbar__button:hover {
-background-position: right center;
   color: #fff;
   text-decoration: none;
+  background-color: #1a3552cf;
+  /* Change the background color on hover */
+  border-radius: 8px;
+  /* Add border-radius for rounded corners */
 }
 @media screen and (max-width: 768px) {
   .navbar {
