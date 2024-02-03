@@ -26,7 +26,7 @@ h3{
 
 .interest{
   background: #06CF0D;
-    background: repeating-radial-gradient(circle farthest-corner at center center, #06CF0D 0%, #CFCFCF 100%);
+    background: repeating-radial-gradient(circle farthest-corner at center center, #06CF0D 0%, #c1bebe 100%);
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
     font-size: 22px;

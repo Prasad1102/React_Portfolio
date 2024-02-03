@@ -38,9 +38,7 @@
   color: #fff;
   text-decoration: none;
   background-color: #1a3552cf;
-  /* Change the background color on hover */
   border-radius: 8px;
-  /* Add border-radius for rounded corners */
 }
 @media screen and (max-width: 768px) {
   .navbar {
