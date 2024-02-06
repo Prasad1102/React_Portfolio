@@ -35,7 +35,7 @@ function About() {
             aspirations align with a fervent desire to apply my proficiency in
             web development and database management to real-world challenges,
             contributing meaningfully to innovative projects and technological
-            advancements!
+            advancements...!
           </p>
         </div>
         <div className="about-image">
