@@ -28,7 +28,7 @@ function About() {
             fascination with web development, coding, and the seamless
             management of databases continues to drive my academic pursuits. I
             am deeply invested in expanding my knowledge base and refining my
-            skills in these domains, recognizing the vast potential they hold in
+            skills in these domains, recognizing  the vast potential they hold in
             shaping the digital landscape. As I embark on this exhilarating
             journey, I am enthusiastic about the prospect of contributing my
             expertise and dedication to the ever-evolving tech industry. My
