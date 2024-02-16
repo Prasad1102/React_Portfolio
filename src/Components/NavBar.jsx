@@ -50,7 +50,7 @@ const Navbar = () => {
             className="navbar__button"
             onClick={() => scrollToSection("education")}
           >
-            Education.
+            Education
           </button>
         </li>
         <li className="navbar__item">
